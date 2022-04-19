@@ -1,2 +1,1 @@
-# Matrix-Exercise
-Matrix exercises
+Array exercises in java
